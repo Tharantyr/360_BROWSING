@@ -4,7 +4,7 @@ Please note that this Unity project can only be opened in Unity 2018.1, since du
 budget constraints I had to work with several wonky asset packages that are not
 supported by the newer versions of Unity.
 
-Also note that this repository does not contain the necessary videos to run the program since they are too large to upload to Github.
+Also note that this repository does not contain the necessary videos to run the program since they are too large to upload to GitHub.
 The Unity project still works, but the videos will not play. If you would like to download the full source code with the videos,
 please click here:
 https://drive.google.com/open?id=1B6fEUeNCQHFfmMeUP3b-k2GrQvXIthGl
