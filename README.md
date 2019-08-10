@@ -12,4 +12,4 @@ https://www2.projects.science.uu.nl/cs-gmt/index.php?r=project/view&id=138&title
 Direct link to the scientific paper:
 https://dspace.library.uu.nl/bitstream/handle/1874/380854/MSC_Thesis_Peter_de_Keijzer__Master_Thesis.pdf?sequence=2&isAllowed=y
 
-All the relevant scripts are found on the Player game object and its child objects, but the most important ones are on the BigThumb object (which is also a child object of Player). ThumbnailScript is the main script controlling everything.
+All relevant scripts are found on the Player game object and its child objects, but the most important ones are on the BigThumb object (which is also a child object of Player). ThumbnailScript is the main script controlling everything.
